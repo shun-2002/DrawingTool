@@ -1,5 +1,6 @@
 # 図形描画ソフト
 大学の講義で作成した図形描画ソフトの実装
+![Frame](https://github.com/shun-2002/DrawingTool/assets/155641575/a1c1bf3c-882a-4ad5-a9f3-3be65fc45ac6)
 
 ## このアプリでできること
 図形の描画、保存、印刷、アニメーションなどが行える
@@ -20,6 +21,8 @@
 
 ### アニメーション機能
 この実装は講義内でヒントが示されていた部分も多い。その中で、一番オリジナリティがあると思う機能がアニメーション機能である。
+
+![AnimationDemoVideo](https://github.com/shun-2002/DrawingTool/assets/155641575/2e0b074b-e06b-4f82-ae70-b61d59228fea)
 
 まず、オブジェクトの Animation という属性を On にする。 On にするには、二通りの方法がある。
 - オブジェクトを選択し、Animation の選択ボックスを On に切り替える
